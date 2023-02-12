@@ -1,3 +1,2 @@
-# Samsung Notebook 9 Lite Hackintosh EFI
-
-This EFI is made by Jonathan0827's hands with OpenCore
+# EFI for Samsung NT910S3Q-M58S
+#### That's all
