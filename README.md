@@ -10,4 +10,5 @@
 - Input: PS/2
 - Wireless Internet Connection: Intel Dual Band Wireless-AC 2x2 HMC
 - Wired Internet Connection: Realtek RTl8168/8111 PCI-E Gigabit Ethernet Adapter
-- UEFI: true
+- Audio: ALC256
+- UEFI: Supported
